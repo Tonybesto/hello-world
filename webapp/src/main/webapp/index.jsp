@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user</h1> 
+    <h1>New users</h1> 
     
     <h1>Register for DevOps Learning</h1>
 
